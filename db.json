@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Birds of Paradise",
+      "image": "https://cdn.thestem.co.uk/production/imager-transforms/digitaloceanspaces/product-images/plants/bird-of-paradise/269985/Bird-of-Paradise-white-6-0138_c6832acb27c72430f782d679cd672ef1.webp",
+      "price": "14.86",
+      "id": 8
+    },
+    {
+      "name": "Swiss Cheese Plant Big Leaf",
+      "image": "https://thestem.co.uk/indoor-plants/big-leaf-monstera",
+      "price": "26.18",
+      "id": 9
     }
   ]
 }
